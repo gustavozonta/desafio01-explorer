@@ -24,11 +24,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="start">
-Nesse desafio foi recebido um código com o projeto desenvolvido durante as aulas da Fase 01 do programa Explorer da RocketSeat.
-O código sofreu algumas alterações e, como podemos ver na imagem abaixo: </p>
+O desafio 01 do curso do Explorer da rocketseat é de corrigir a posição dos elementos na pagina como textos e imagens que estão todos desordenados </p>
 
 <p align="center">
-  <img alt="Desafio Introdução HTMl e CSS" src="./images/imgReadmeBug.png" width="100%">
+  <img alt="Desafio Introdução HTMl e CSS" src="./images/bug.png" width="100%">
 </p>
 
 <br/>
